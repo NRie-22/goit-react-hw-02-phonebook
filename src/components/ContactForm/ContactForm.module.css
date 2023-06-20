@@ -8,7 +8,7 @@
 }
 
 label {
-    margin-bottom: 10px;
+    margin-bottom: 30px;
     color: #000000;
 }
 
@@ -27,7 +27,7 @@ label:last-child {
 .buttonEditor{
         text-decoration: none;
         cursor: pointer;
-        width: 90px;
+        width: 100px;
         font-weight: bold;
         margin-right: auto;
         padding: 5px 5px;
@@ -38,6 +38,6 @@ label:last-child {
     }
 
     .buttonEditor:hover {
-        background: #267bef;
+        background: #2e81f6;
         color: #FFFFFF;
 }

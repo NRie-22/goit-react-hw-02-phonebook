@@ -10,12 +10,13 @@
 
 .item {
     background-color: #FFFFFF;
-    border: 1px solid #000000;
-    padding: 10px;
+    padding: 5px;
     border-radius: 4px;
     margin-bottom: 5px;
     display: flex;
     justify-content: space-between;
+     align-items: center;
+   
 }
 
 .contact {
@@ -24,7 +25,8 @@
  .btn {
     text-decoration: none;
     cursor: pointer;
-    width: 90px;
+    width: 80px;
+    height: 30px; 
     font-weight: bold; 
     color: #000000;
     border: 1px solid #000000;
@@ -33,7 +35,7 @@
 } 
 
  .btn:hover {
-    background: #267bef;
+    background:#2e81f6;
     color: #FFFFFF;
     border: none;
 } 
